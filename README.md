@@ -1,1 +1,1 @@
-# SocialStream
+# socialStreamApp
